@@ -1,9 +1,11 @@
+import Header from "src/components/Header";
+
 function Home(){
     
 
     return(
         <>
-            
+            <Header />
         </>
     )
 }
